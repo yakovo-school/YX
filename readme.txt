@@ -1,5 +1,5 @@
 // begin readme of YX
-//Made with JUCE 5.4.7
+//Made with JUCE 5.4.7 and VS2019
 This plugin is based off of a Reaktor patch I would frequently make using the XY device and clock divider tool. 
 There are clock dividers for the X-shifting, Y-Shifting, and actual note playback, and all MIDI notes are avaliable
 for use on the grid. You're going to need to grab your own Quantizer. Remember to "hit record".
